@@ -1,0 +1,12 @@
+print('This is program to enter favourite movies you like')
+list = []
+movie1 = input("please write your first movie name: ")
+# print("1 is: ", movie1)
+list.append(movie1)
+movie2 = input("please write your Second movie name: ")
+# print("2 is: ", movie2)
+list.append(movie2)
+movie3 = input("please write your third movie name: ")
+# print("3 is: ", movie3)
+list.append(movie3)
+print(list)
