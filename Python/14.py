@@ -1,0 +1,7 @@
+print("This program is used to add,sub,multiple and division of element")
+a = int(input("Enter number a: "))
+b = int(input("Enter number b: "))
+print("The addition of elements is (a+b) is: ",a+b)
+print("The Subtraction of elements is (a-b) is: ",a-b)
+print("The multipication of elements is (a*b)is: ",a*b)
+print("The division of elements is (a/b)is ",a/b)
