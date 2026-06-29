@@ -1,4 +1,3 @@
-# My programs
 # Hi there, I'm Ivaid 👋
 
 ### 🔭 I’m currently working on
